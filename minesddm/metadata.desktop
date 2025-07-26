@@ -17,5 +17,5 @@ ConfigFile=theme.conf
 Theme-Id=minesddm-theme
 Theme-API=2.0
 Website=https://github.com/Davi-S/sddm-theme-minesddm
-Version=2.0.1
+Version=2.1.0
 QtVersion=6
